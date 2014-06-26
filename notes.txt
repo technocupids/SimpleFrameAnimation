@@ -1,0 +1,2 @@
+This project shows how to create a simple frame animation in Android.
+Project drawables are obtained from the link http://www.36peas.com/blog/2010/9/13/free-japanese-ninja-shinobi-sprite-sheet.html under http://creativecommons.org/licenses/by/3.0/
